@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou [Seu Nome]
+# Olá! 👋 Eu sou o Gustavo Garcia Rocha
 
 <div align="center">
   
@@ -8,12 +8,9 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor **[sua especialidade - ex: Full Stack, Front-end, Back-end]**
-- 🌱 Atualmente aprendendo **[tecnologias que está estudando]**
-- 👯 Procurando colaborar em **projetos open source**
-- 💬 Pergunte-me sobre **[suas especialidades]**
-- 📫 Como me encontrar: **[seu email ou LinkedIn]**
-- ⚡ Curiosidade: **[algo interessante sobre você]**
+- 💻 Desenvolvedor FullStack mais focado em Java Spring FrameWork
+- 🌱 Atualmente aprendendo Angular
+- 📫 Como me encontrar: 📫gutop.rocha@gmail.com 📫 LINKEDIN (www.linkedin.com/in/gustavo-garcia-rocha-91279b300)
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -58,12 +55,14 @@
 ## 💼 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/[seu-usuario]/[projeto1]">
+  <a href="https://github.com/[RochaGR]/[barbearia-restfull]">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=[seu-usuario]&repo=[projeto1]&theme=tokyonight" />
   </a>
+  <!--
   <a href="https://github.com/[seu-usuario]/[projeto2]">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=[seu-usuario]&repo=[projeto2]&theme=tokyonight" />
   </a>
+  -->
 </div>
 
 ## 🐍 Contribuições
