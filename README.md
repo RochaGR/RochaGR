@@ -1,10 +1,5 @@
 # Olá! 👋 Eu sou o Gustavo Garcia Rocha
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo;Vamos+construir+o+futuro+juntos!)
-
-</div>
 
 ## 🚀 Sobre mim
 
@@ -13,7 +8,6 @@
 - 👯 Procurando colaborar em **projetos open source**
 - 💬 Pergunte-me sobre **Java, Spring Boot, APIs REST**
 - 📫 Como me encontrar: **gutop.rocha@gmail.com**
-- ⚡ Curiosidade: **Apaixonado por resolver problemas complexos com código limpo**
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -23,9 +17,6 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
