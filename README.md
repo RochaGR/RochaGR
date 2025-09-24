@@ -22,27 +22,6 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/RochaGR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochaGR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGR&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/RochaGR">
-    <img src="https://github-profile-trophy.vercel.app/?username=RochaGR&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  </a>
-</div>
-
-## 🔥 Streak Stats
-<div align="center">
-  <a href="https://github.com/RochaGR">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RochaGR&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
 
 ## 📈 Atividade Recente
 
