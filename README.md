@@ -23,14 +23,6 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 🐍 Contribuições
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RochaGR/RochaGR/output/matrix.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RochaGR/RochaGR/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RochaGR/RochaGR/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ## 💼 Projetos em Destaque
 <div align="center">
