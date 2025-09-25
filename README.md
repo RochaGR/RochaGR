@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Gustavo Garcia Rocha
+# Olá! Eu sou o Gustavo Garcia Rocha
 
 
 ## 🚀 Sobre mim
