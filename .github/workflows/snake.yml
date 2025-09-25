@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,11 +20,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_empty=#ebedf0
+            dist/rainbow.svg?color_snake=#ff6b6b&color_dots=#ff9ff3,#f368e0,#bf95f4,#9775fa,#845ef7&color_empty=#f8f9fa
+            dist/gradient.svg?color_snake=#00d2ff&color_dots=#00d2ff,#3a7bd5,#3a6073,#16537e,#0f4471&color_empty=#f1f8ff
+            dist/matrix.svg?color_snake=#39ff14&color_dots=#39ff14,#32cd32,#228b22,#006400,#013220&color_empty=#0d1117
+            dist/fire.svg?color_snake=#ff4757&color_dots=#ff6348,#ff7675,#fd79a8,#e17055,#d63031&color_empty=#2d3436
+            dist/neon.svg?color_snake=#00ffff&color_dots=#ff00ff,#00ffff,#ffff00,#ff0080,#8000ff&color_empty=#000000
