@@ -3,7 +3,6 @@
 ## 🚀 Sobre mim
 - 💻 Desenvolvedor **FullStack** focado em **Java Spring Framework**
 - 🌱 Atualmente aprendendo **Angular**
-- 👯 Procurando colaborar em **projetos open source**
 - 💬 Pergunte-me sobre **Java, Spring Boot, APIs REST**
 - 📫 Como me encontrar: **gutop.rocha@gmail.com**
 
