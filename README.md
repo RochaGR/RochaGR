@@ -18,11 +18,6 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-## 📈 Atividade Recente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
 ## 💼 Projetos em Destaque
 <div align="center">
   <a href="https://github.com/RochaGR/barbearia-restfull">
