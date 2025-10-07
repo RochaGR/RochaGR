@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gustavo Garcia Rocha
 
-## 🚀 Sobre mim
+##  Sobre mim
 - 💻 Desenvolvedor **FullStack** focado em **Java Spring Framework**
 - 🌱 Atualmente aprendendo **Angular**
 - 💬 Pergunte-me sobre **Java, Spring Boot, APIs REST**
