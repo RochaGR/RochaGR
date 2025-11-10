@@ -23,6 +23,9 @@
   <a href="https://github.com/RochaGR/barbearia-restfull">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RochaGR&repo=barbearia-restfull&theme=tokyonight" />
   </a>
+  <a href="  https://github.com/RochaGR/my-training">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RochaGR&repo=barbearia-restfull&theme=tokyonight" />
+  </a>
 </div>
 
 ## 🤝 Vamos nos conectar?
