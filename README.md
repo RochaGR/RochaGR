@@ -1,47 +1,64 @@
-# Olá! Eu sou o Gustavo Garcia Rocha
+# Gustavo Garcia Rocha
 
-##  Sobre mim
-- 💻 Desenvolvedor **FullStack** focado em **Java Spring Framework**
-- 🌱 Atualmente aprendendo **Angular**
-- 💬 Pergunte-me sobre **Java, Spring Boot, APIs REST**
-- 📫 Como me encontrar: **gutop.rocha@gmail.com**
+**Desenvolvedor FullStack** especializado em **Java Spring Boot** e **Angular**, com experiência no desenvolvimento de sistemas empresariais completos — do backend RESTful ao frontend responsivo.
 
-## 🛠️ Tecnologias & Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+📧 gutop.rocha@gmail.com · [LinkedIn](https://www.linkedin.com/in/gustavo-garcia-rocha-91279b300)
 
-</div>
+---
 
-## 💼 Projetos em Destaque
+## Sobre
+
+Desenvolvo aplicações full-stack com foco em qualidade, boas práticas e arquitetura sólida. Tenho experiência com sistemas de gestão (farmácias, barbearias, e-commerce, fitness), integrações via API REST e modelagem de banco de dados relacional.
+
+---
+
+## Tecnologias
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
+## Projetos
+
 <div align="center">
   <a href="https://github.com/RochaGR/barbearia-restfull">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RochaGR&repo=barbearia-restfull&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RochaGR&repo=barbearia-restfull&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="  https://github.com/RochaGR/my-training">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RochaGR&repo=my-training&theme=tokyonight" />
+  <a href="https://github.com/RochaGR/my-training">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RochaGR&repo=my-training&theme=tokyonight&hide_border=true" />
   </a>
-</div>
-
-## 🤝 Vamos nos conectar?
-<div align="center">
-  <a href="mailto:gutop.rocha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-garcia-rocha-91279b300" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RochaGR&color=00bfbf&style=flat-square" alt="Profile views" />
-</div>
+
+## Estatísticas
 
 <div align="center">
-  
-**"O único modo de fazer um excelente trabalho é amar o que você faz."** - Steve Jobs
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RochaGR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGR&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RochaGR&color=6DB33F&style=flat-square" alt="Profile views" />
 </div>
