@@ -8,7 +8,7 @@
 
 ## Sobre
 
-Desenvolvo aplicações full-stack com foco em qualidade, boas práticas e arquitetura sólida. Tenho experiência com sistemas de gestão (farmácias, barbearias, e-commerce, fitness), integrações via API REST e modelagem de banco de dados relacional.
+Desenvolvo aplicações full-stack com foco em qualidade, boas práticas e arquitetura sólida.
 
 ---
 
