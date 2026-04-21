@@ -1,6 +1,6 @@
 # Gustavo Garcia Rocha
 
-**Desenvolvedor FullStack** especializado em **Java Spring Boot** e **Angular**, com experiência no desenvolvimento de sistemas empresariais completos — do backend RESTful ao frontend responsivo.
+**Desenvolvedor FullStack** especializado em **Java Spring Boot** e **Angular**, com experiência no desenvolvimento de sistemas completos — do backend RESTful ao frontend responsivo.
 
 📧 gutop.rocha@gmail.com · [LinkedIn](https://www.linkedin.com/in/gustavo-garcia-rocha-91279b300)
 
